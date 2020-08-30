@@ -4,9 +4,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Techno-Disaster&show_icons=true&include_all_commits=true&theme=radical&count_private=true" />
 </a>
 
-&nbsp;
-
-
 <i> Let's connect and chat! :incoming_envelope: </i>
 
 <a href="https://www.linkedin.com/in/techno_disaster"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
