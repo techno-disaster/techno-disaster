@@ -10,8 +10,6 @@
 
 <!--START_SECTION:activity-->
 
-<!--END_SECTION:activity-->
-
 ---
 
 <i> Let's connect and chat! :incoming_envelope: </i>
