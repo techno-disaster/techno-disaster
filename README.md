@@ -9,11 +9,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#139](https://github.com//anitab-org/mentorship-flutter/pull/139) in [anitab-org/mentorship-flutter](https://github.com//anitab-org/mentorship-flutter)
-2. ❗️ Opened issue [#137](https://github.com//anitab-org/mentorship-flutter/issues/137) in [anitab-org/mentorship-flutter](https://github.com//anitab-org/mentorship-flutter)
-3. 💪 Opened PR [#136](https://github.com//anitab-org/mentorship-flutter/pull/136) in [anitab-org/mentorship-flutter](https://github.com//anitab-org/mentorship-flutter)
-4. 🎉 Merged PR [#17](https://github.com//Techno-Disaster/mentorship-flutter/pull/17) in [Techno-Disaster/mentorship-flutter](https://github.com//Techno-Disaster/mentorship-flutter)
-5. 💪 Opened PR [#17](https://github.com//Techno-Disaster/mentorship-flutter/pull/17) in [Techno-Disaster/mentorship-flutter](https://github.com//Techno-Disaster/mentorship-flutter)
+1. 🎉 Merged PR [#135](https://github.com//anitab-org/mentorship-flutter/pull/135) in [anitab-org/mentorship-flutter](https://github.com//anitab-org/mentorship-flutter)
+2. ❗️ Closed issue [#134](https://github.com//anitab-org/mentorship-flutter/issues/134) in [anitab-org/mentorship-flutter](https://github.com//anitab-org/mentorship-flutter)
+3. ❌ Closed PR [#139](https://github.com//anitab-org/mentorship-flutter/pull/139) in [anitab-org/mentorship-flutter](https://github.com//anitab-org/mentorship-flutter)
+4. ❗️ Opened issue [#137](https://github.com//anitab-org/mentorship-flutter/issues/137) in [anitab-org/mentorship-flutter](https://github.com//anitab-org/mentorship-flutter)
+5. 💪 Opened PR [#136](https://github.com//anitab-org/mentorship-flutter/pull/136) in [anitab-org/mentorship-flutter](https://github.com//anitab-org/mentorship-flutter)
 <!--END_SECTION:activity-->
 
 
