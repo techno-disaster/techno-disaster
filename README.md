@@ -9,11 +9,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#142](https://github.com//anitab-org/mentorship-flutter/issues/142) in [anitab-org/mentorship-flutter](https://github.com//anitab-org/mentorship-flutter)
-2. 💪 Opened PR [#5](https://github.com//Uzay-G/portfolio/pull/5) in [Uzay-G/portfolio](https://github.com//Uzay-G/portfolio)
-3. ❗️ Closed issue [#140](https://github.com//anitab-org/mentorship-flutter/issues/140) in [anitab-org/mentorship-flutter](https://github.com//anitab-org/mentorship-flutter)
-4. ❗️ Opened issue [#141](https://github.com//anitab-org/mentorship-flutter/issues/141) in [anitab-org/mentorship-flutter](https://github.com//anitab-org/mentorship-flutter)
-5. 🎉 Merged PR [#135](https://github.com//anitab-org/mentorship-flutter/pull/135) in [anitab-org/mentorship-flutter](https://github.com//anitab-org/mentorship-flutter)
+1. ❗️ Opened issue [#112](https://github.com//fluttercommunity/flutter_uploader/issues/112) in [fluttercommunity/flutter_uploader](https://github.com//fluttercommunity/flutter_uploader)
+2. 💪 Opened PR [#5](https://github.com//GDGVIT/cloud-program-leaderboard/pull/5) in [GDGVIT/cloud-program-leaderboard](https://github.com//GDGVIT/cloud-program-leaderboard)
+3. 🎉 Merged PR [#2](https://github.com//Techno-Disaster/Techno-Disaster/pull/2) in [Techno-Disaster/Techno-Disaster](https://github.com//Techno-Disaster/Techno-Disaster)
+4. 💪 Opened PR [#2](https://github.com//Techno-Disaster/Techno-Disaster/pull/2) in [Techno-Disaster/Techno-Disaster](https://github.com//Techno-Disaster/Techno-Disaster)
+5. 🎉 Merged PR [#1](https://github.com//Techno-Disaster/Techno-Disaster/pull/1) in [Techno-Disaster/Techno-Disaster](https://github.com//Techno-Disaster/Techno-Disaster)
 <!--END_SECTION:activity-->
 
 
