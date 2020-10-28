@@ -9,11 +9,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#112](https://github.com//fluttercommunity/flutter_uploader/issues/112) in [fluttercommunity/flutter_uploader](https://github.com//fluttercommunity/flutter_uploader)
-2. 💪 Opened PR [#5](https://github.com//GDGVIT/cloud-program-leaderboard/pull/5) in [GDGVIT/cloud-program-leaderboard](https://github.com//GDGVIT/cloud-program-leaderboard)
-3. 🎉 Merged PR [#2](https://github.com//Techno-Disaster/Techno-Disaster/pull/2) in [Techno-Disaster/Techno-Disaster](https://github.com//Techno-Disaster/Techno-Disaster)
-4. 💪 Opened PR [#2](https://github.com//Techno-Disaster/Techno-Disaster/pull/2) in [Techno-Disaster/Techno-Disaster](https://github.com//Techno-Disaster/Techno-Disaster)
-5. 🎉 Merged PR [#1](https://github.com//Techno-Disaster/Techno-Disaster/pull/1) in [Techno-Disaster/Techno-Disaster](https://github.com//Techno-Disaster/Techno-Disaster)
+
 <!--END_SECTION:activity-->
 
 
