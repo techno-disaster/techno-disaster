@@ -9,11 +9,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#6212](https://github.com//microsoft/WSL/issues/6212) in [microsoft/WSL](https://github.com//microsoft/WSL)
-2. 💪 Opened PR [#6](https://github.com//GDGVIT/cloud-program-leaderboard/pull/6) in [GDGVIT/cloud-program-leaderboard](https://github.com//GDGVIT/cloud-program-leaderboard)
-3. ❗️ Opened issue [#112](https://github.com//fluttercommunity/flutter_uploader/issues/112) in [fluttercommunity/flutter_uploader](https://github.com//fluttercommunity/flutter_uploader)
-4. 💪 Opened PR [#5](https://github.com//GDGVIT/cloud-program-leaderboard/pull/5) in [GDGVIT/cloud-program-leaderboard](https://github.com//GDGVIT/cloud-program-leaderboard)
-5. 🎉 Merged PR [#2](https://github.com//Techno-Disaster/Techno-Disaster/pull/2) in [Techno-Disaster/Techno-Disaster](https://github.com//Techno-Disaster/Techno-Disaster)
+1. ❗️ Closed issue [#112](https://github.com//fluttercommunity/flutter_uploader/issues/112) in [fluttercommunity/flutter_uploader](https://github.com//fluttercommunity/flutter_uploader)
+2. ❗️ Opened issue [#6212](https://github.com//microsoft/WSL/issues/6212) in [microsoft/WSL](https://github.com//microsoft/WSL)
+3. 💪 Opened PR [#6](https://github.com//GDGVIT/cloud-program-leaderboard/pull/6) in [GDGVIT/cloud-program-leaderboard](https://github.com//GDGVIT/cloud-program-leaderboard)
+4. ❗️ Opened issue [#112](https://github.com//fluttercommunity/flutter_uploader/issues/112) in [fluttercommunity/flutter_uploader](https://github.com//fluttercommunity/flutter_uploader)
+5. 💪 Opened PR [#5](https://github.com//GDGVIT/cloud-program-leaderboard/pull/5) in [GDGVIT/cloud-program-leaderboard](https://github.com//GDGVIT/cloud-program-leaderboard)
 <!--END_SECTION:activity-->
 
 
