@@ -9,11 +9,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#228](https://github.com//slackapi/bolt-python/issues/228) in [slackapi/bolt-python](https://github.com//slackapi/bolt-python)
-2. ❗️ Opened issue [#228](https://github.com//slackapi/bolt-python/issues/228) in [slackapi/bolt-python](https://github.com//slackapi/bolt-python)
-3. ❗️ Opened issue [#154](https://github.com//anitab-org/mentorship-flutter/issues/154) in [anitab-org/mentorship-flutter](https://github.com//anitab-org/mentorship-flutter)
-4. 💪 Opened PR [#17](https://github.com//imujtaba8488/package_im_stepper/pull/17) in [imujtaba8488/package_im_stepper](https://github.com//imujtaba8488/package_im_stepper)
-5. 💪 Opened PR [#148](https://github.com//anitab-org/mentorship-flutter/pull/148) in [anitab-org/mentorship-flutter](https://github.com//anitab-org/mentorship-flutter)
+1. 🎉 Merged PR [#1](https://github.com//Techno-Disaster/GSoC-Helper/pull/1) in [Techno-Disaster/GSoC-Helper](https://github.com//Techno-Disaster/GSoC-Helper)
+2. 💪 Opened PR [#1](https://github.com//Techno-Disaster/GSoC-Helper/pull/1) in [Techno-Disaster/GSoC-Helper](https://github.com//Techno-Disaster/GSoC-Helper)
+3. ❗️ Closed issue [#228](https://github.com//slackapi/bolt-python/issues/228) in [slackapi/bolt-python](https://github.com//slackapi/bolt-python)
+4. ❗️ Opened issue [#228](https://github.com//slackapi/bolt-python/issues/228) in [slackapi/bolt-python](https://github.com//slackapi/bolt-python)
+5. ❗️ Opened issue [#154](https://github.com//anitab-org/mentorship-flutter/issues/154) in [anitab-org/mentorship-flutter](https://github.com//anitab-org/mentorship-flutter)
 <!--END_SECTION:activity-->
 
 
