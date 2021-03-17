@@ -9,11 +9,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#43](https://github.com//onweru/compose/issues/43) in [onweru/compose](https://github.com//onweru/compose)
-2. 💪 Opened PR [#80](https://github.com//PalisadoesFoundation/talawa/pull/80) in [PalisadoesFoundation/talawa](https://github.com//PalisadoesFoundation/talawa)
-3. 💪 Opened PR [#5276](https://github.com//tldr-pages/tldr/pull/5276) in [tldr-pages/tldr](https://github.com//tldr-pages/tldr)
-4. 🎉 Merged PR [#1](https://github.com//Techno-Disaster/tldr/pull/1) in [Techno-Disaster/tldr](https://github.com//Techno-Disaster/tldr)
-5. ❗️ Closed issue [#54](https://github.com//asjqkkkk/markdown_widget/issues/54) in [asjqkkkk/markdown_widget](https://github.com//asjqkkkk/markdown_widget)
+1. ❗️ Closed issue [#2](https://github.com//Techno-Disaster/tldr-flutter/issues/2) in [Techno-Disaster/tldr-flutter](https://github.com//Techno-Disaster/tldr-flutter)
+2. ❗️ Opened issue [#43](https://github.com//onweru/compose/issues/43) in [onweru/compose](https://github.com//onweru/compose)
+3. 💪 Opened PR [#80](https://github.com//PalisadoesFoundation/talawa/pull/80) in [PalisadoesFoundation/talawa](https://github.com//PalisadoesFoundation/talawa)
+4. 💪 Opened PR [#5276](https://github.com//tldr-pages/tldr/pull/5276) in [tldr-pages/tldr](https://github.com//tldr-pages/tldr)
+5. 🎉 Merged PR [#1](https://github.com//Techno-Disaster/tldr/pull/1) in [Techno-Disaster/tldr](https://github.com//Techno-Disaster/tldr)
 <!--END_SECTION:activity-->
 
 
