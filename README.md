@@ -1,7 +1,7 @@
 ### Hi there, I'm [Jayesh!](https://technodisaster.wtf) aka Techno-Disaster👋
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Techno-Disaster&include_all_commits=true&count_private=trueshow_icons=true&icon_color=f3437a&bg_color=30,f2ffe6,e6ffff" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Techno-Disaster&include_all_commits=true&count_private=true&show_icons=true&icon_color=f3437a&bg_color=30,f2ffe6,e6ffff" />
 </a>
 
 ---
