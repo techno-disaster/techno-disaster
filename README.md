@@ -9,11 +9,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com//Techno-Disaster/Filter-Me/pull/1) in [Techno-Disaster/Filter-Me](https://github.com//Techno-Disaster/Filter-Me)
-2. ❗️ Closed issue [#641](https://github.com//anitab-org/mentorship-backend/issues/641) in [anitab-org/mentorship-backend](https://github.com//anitab-org/mentorship-backend)
-3. ❗️ Closed issue [#2](https://github.com//Techno-Disaster/tldr-flutter/issues/2) in [Techno-Disaster/tldr-flutter](https://github.com//Techno-Disaster/tldr-flutter)
-4. ❗️ Opened issue [#43](https://github.com//onweru/compose/issues/43) in [onweru/compose](https://github.com//onweru/compose)
-5. 💪 Opened PR [#80](https://github.com//PalisadoesFoundation/talawa/pull/80) in [PalisadoesFoundation/talawa](https://github.com//PalisadoesFoundation/talawa)
+1. 🎉 Merged PR [#3](https://github.com//Techno-Disaster/Techno-Disaster/pull/3) in [Techno-Disaster/Techno-Disaster](https://github.com//Techno-Disaster/Techno-Disaster)
+2. 🎉 Merged PR [#1](https://github.com//Techno-Disaster/Filter-Me/pull/1) in [Techno-Disaster/Filter-Me](https://github.com//Techno-Disaster/Filter-Me)
+3. ❗️ Closed issue [#641](https://github.com//anitab-org/mentorship-backend/issues/641) in [anitab-org/mentorship-backend](https://github.com//anitab-org/mentorship-backend)
+4. ❗️ Closed issue [#2](https://github.com//Techno-Disaster/tldr-flutter/issues/2) in [Techno-Disaster/tldr-flutter](https://github.com//Techno-Disaster/tldr-flutter)
+5. ❗️ Opened issue [#43](https://github.com//onweru/compose/issues/43) in [onweru/compose](https://github.com//onweru/compose)
 <!--END_SECTION:activity-->
 
 
