@@ -9,11 +9,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#33](https://github.com//leoafarias/sidekick/pull/33) in [leoafarias/sidekick](https://github.com//leoafarias/sidekick)
-2. 💪 Opened PR [#5515](https://github.com//tldr-pages/tldr/pull/5515) in [tldr-pages/tldr](https://github.com//tldr-pages/tldr)
-3. ❗️ Closed issue [#3](https://github.com//Techno-Disaster/tldr-flutter/issues/3) in [Techno-Disaster/tldr-flutter](https://github.com//Techno-Disaster/tldr-flutter)
-4. ❗️ Opened issue [#844](https://github.com//google/flutter-desktop-embedding/issues/844) in [google/flutter-desktop-embedding](https://github.com//google/flutter-desktop-embedding)
-5. 🎉 Merged PR [#3](https://github.com//Techno-Disaster/Techno-Disaster/pull/3) in [Techno-Disaster/Techno-Disaster](https://github.com//Techno-Disaster/Techno-Disaster)
+1. 🎉 Merged PR [#7](https://github.com//CCExtractor/website/pull/7) in [CCExtractor/website](https://github.com//CCExtractor/website)
+2. 💪 Opened PR [#33](https://github.com//leoafarias/sidekick/pull/33) in [leoafarias/sidekick](https://github.com//leoafarias/sidekick)
+3. 💪 Opened PR [#5515](https://github.com//tldr-pages/tldr/pull/5515) in [tldr-pages/tldr](https://github.com//tldr-pages/tldr)
+4. ❗️ Closed issue [#3](https://github.com//Techno-Disaster/tldr-flutter/issues/3) in [Techno-Disaster/tldr-flutter](https://github.com//Techno-Disaster/tldr-flutter)
+5. ❗️ Opened issue [#844](https://github.com//google/flutter-desktop-embedding/issues/844) in [google/flutter-desktop-embedding](https://github.com//google/flutter-desktop-embedding)
 <!--END_SECTION:activity-->
 
 
