@@ -16,12 +16,10 @@
 5. ❗️ Opened issue [#844](https://github.com//google/flutter-desktop-embedding/issues/844) in [google/flutter-desktop-embedding](https://github.com//google/flutter-desktop-embedding)
 <!--END_SECTION:activity-->
 
-
-
-
-
-
 ---
+
+![](https://komarev.com/ghpvc/?username=Techno-Disaster)
+
 
 <i> Let's connect and chat! :incoming_envelope: </i>
 
