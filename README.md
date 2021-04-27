@@ -6,11 +6,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com//Techno-Disaster/tldr-flutter/pull/5) in [Techno-Disaster/tldr-flutter](https://github.com//Techno-Disaster/tldr-flutter)
-2. ❗️ Closed issue [#4](https://github.com//Techno-Disaster/tldr-flutter/issues/4) in [Techno-Disaster/tldr-flutter](https://github.com//Techno-Disaster/tldr-flutter)
-3. 🎉 Merged PR [#1](https://github.com//arghyadeep99/Aarogya-Bot/pull/1) in [arghyadeep99/Aarogya-Bot](https://github.com//arghyadeep99/Aarogya-Bot)
-4. 🎉 Merged PR [#7](https://github.com//CCExtractor/website/pull/7) in [CCExtractor/website](https://github.com//CCExtractor/website)
-5. 💪 Opened PR [#33](https://github.com//leoafarias/sidekick/pull/33) in [leoafarias/sidekick](https://github.com//leoafarias/sidekick)
+1. ❗️ Opened issue [#22](https://github.com//tal-tech/flutter_intro/issues/22) in [tal-tech/flutter_intro](https://github.com//tal-tech/flutter_intro)
+2. 🎉 Merged PR [#5](https://github.com//Techno-Disaster/tldr-flutter/pull/5) in [Techno-Disaster/tldr-flutter](https://github.com//Techno-Disaster/tldr-flutter)
+3. ❗️ Closed issue [#4](https://github.com//Techno-Disaster/tldr-flutter/issues/4) in [Techno-Disaster/tldr-flutter](https://github.com//Techno-Disaster/tldr-flutter)
+4. 🎉 Merged PR [#1](https://github.com//arghyadeep99/Aarogya-Bot/pull/1) in [arghyadeep99/Aarogya-Bot](https://github.com//arghyadeep99/Aarogya-Bot)
+5. 🎉 Merged PR [#7](https://github.com//CCExtractor/website/pull/7) in [CCExtractor/website](https://github.com//CCExtractor/website)
 <!--END_SECTION:activity-->
 
 ---
