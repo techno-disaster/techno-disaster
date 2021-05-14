@@ -6,11 +6,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com//Sorunome/flutter_matrix_html/pull/4) in [Sorunome/flutter_matrix_html](https://github.com//Sorunome/flutter_matrix_html)
-2. 🎉 Merged PR [#9](https://github.com//Techno-Disaster/tldr-flutter/pull/9) in [Techno-Disaster/tldr-flutter](https://github.com//Techno-Disaster/tldr-flutter)
-3. 🎉 Merged PR [#6](https://github.com//Techno-Disaster/tldr-flutter/pull/6) in [Techno-Disaster/tldr-flutter](https://github.com//Techno-Disaster/tldr-flutter)
-4. ❗️ Opened issue [#22](https://github.com//tal-tech/flutter_intro/issues/22) in [tal-tech/flutter_intro](https://github.com//tal-tech/flutter_intro)
-5. 🎉 Merged PR [#5](https://github.com//Techno-Disaster/tldr-flutter/pull/5) in [Techno-Disaster/tldr-flutter](https://github.com//Techno-Disaster/tldr-flutter)
+1. ❌ Closed PR [#4](https://github.com//Sorunome/flutter_matrix_html/pull/4) in [Sorunome/flutter_matrix_html](https://github.com//Sorunome/flutter_matrix_html)
+2. 💪 Opened PR [#4](https://github.com//Sorunome/flutter_matrix_html/pull/4) in [Sorunome/flutter_matrix_html](https://github.com//Sorunome/flutter_matrix_html)
+3. 🎉 Merged PR [#9](https://github.com//Techno-Disaster/tldr-flutter/pull/9) in [Techno-Disaster/tldr-flutter](https://github.com//Techno-Disaster/tldr-flutter)
+4. 🎉 Merged PR [#6](https://github.com//Techno-Disaster/tldr-flutter/pull/6) in [Techno-Disaster/tldr-flutter](https://github.com//Techno-Disaster/tldr-flutter)
+5. ❗️ Opened issue [#22](https://github.com//tal-tech/flutter_intro/issues/22) in [tal-tech/flutter_intro](https://github.com//tal-tech/flutter_intro)
 <!--END_SECTION:activity-->
 
 ---
