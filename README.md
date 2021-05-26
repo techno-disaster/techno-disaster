@@ -6,11 +6,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#49](https://github.com//google/devlibrary/pull/49) in [google/devlibrary](https://github.com//google/devlibrary)
-2. 💪 Opened PR [#12](https://github.com//rodydavis/navigation_rail/pull/12) in [rodydavis/navigation_rail](https://github.com//rodydavis/navigation_rail)
-3. 💪 Opened PR [#1335](https://github.com//CCExtractor/ccextractor/pull/1335) in [CCExtractor/ccextractor](https://github.com//CCExtractor/ccextractor)
-4. 🎉 Merged PR [#11](https://github.com//Techno-Disaster/tldr-flutter/pull/11) in [Techno-Disaster/tldr-flutter](https://github.com//Techno-Disaster/tldr-flutter)
-5. 🎉 Merged PR [#10](https://github.com//Techno-Disaster/tldr-flutter/pull/10) in [Techno-Disaster/tldr-flutter](https://github.com//Techno-Disaster/tldr-flutter)
+1. ❗️ Opened issue [#50](https://github.com//google/devlibrary/issues/50) in [google/devlibrary](https://github.com//google/devlibrary)
+2. 💪 Opened PR [#49](https://github.com//google/devlibrary/pull/49) in [google/devlibrary](https://github.com//google/devlibrary)
+3. 💪 Opened PR [#12](https://github.com//rodydavis/navigation_rail/pull/12) in [rodydavis/navigation_rail](https://github.com//rodydavis/navigation_rail)
+4. 💪 Opened PR [#1335](https://github.com//CCExtractor/ccextractor/pull/1335) in [CCExtractor/ccextractor](https://github.com//CCExtractor/ccextractor)
+5. 🎉 Merged PR [#11](https://github.com//Techno-Disaster/tldr-flutter/pull/11) in [Techno-Disaster/tldr-flutter](https://github.com//Techno-Disaster/tldr-flutter)
 <!--END_SECTION:activity-->
 
 ---
