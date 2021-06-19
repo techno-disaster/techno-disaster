@@ -6,11 +6,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1347](https://github.com//CCExtractor/ccextractor/issues/1347) in [CCExtractor/ccextractor](https://github.com//CCExtractor/ccextractor)
-2. 🎉 Merged PR [#1](https://github.com//Techno-Disaster/dotfiles/pull/1) in [Techno-Disaster/dotfiles](https://github.com//Techno-Disaster/dotfiles)
-3. 🎉 Merged PR [#2](https://github.com//Techno-Disaster/Filter-Me/pull/2) in [Techno-Disaster/Filter-Me](https://github.com//Techno-Disaster/Filter-Me)
-4. ❗️ Opened issue [#50](https://github.com//google/devlibrary/issues/50) in [google/devlibrary](https://github.com//google/devlibrary)
-5. 💪 Opened PR [#49](https://github.com//google/devlibrary/pull/49) in [google/devlibrary](https://github.com//google/devlibrary)
+1. 🎉 Merged PR [#1](https://github.com//CCExtractor/ccextractorfluttergui/pull/1) in [CCExtractor/ccextractorfluttergui](https://github.com//CCExtractor/ccextractorfluttergui)
+2. ❗️ Opened issue [#1347](https://github.com//CCExtractor/ccextractor/issues/1347) in [CCExtractor/ccextractor](https://github.com//CCExtractor/ccextractor)
+3. 🎉 Merged PR [#1](https://github.com//Techno-Disaster/dotfiles/pull/1) in [Techno-Disaster/dotfiles](https://github.com//Techno-Disaster/dotfiles)
+4. 🎉 Merged PR [#2](https://github.com//Techno-Disaster/Filter-Me/pull/2) in [Techno-Disaster/Filter-Me](https://github.com//Techno-Disaster/Filter-Me)
+5. ❗️ Opened issue [#50](https://github.com//google/devlibrary/issues/50) in [google/devlibrary](https://github.com//google/devlibrary)
 <!--END_SECTION:activity-->
 
 ---
