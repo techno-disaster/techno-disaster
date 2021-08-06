@@ -6,11 +6,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1370](https://github.com//CCExtractor/ccextractor/pull/1370) in [CCExtractor/ccextractor](https://github.com//CCExtractor/ccextractor)
-2. 🎉 Merged PR [#2](https://github.com//CCExtractor/ccextractorfluttergui/pull/2) in [CCExtractor/ccextractorfluttergui](https://github.com//CCExtractor/ccextractorfluttergui)
-3. 💪 Opened PR [#2](https://github.com//CCExtractor/ccextractorfluttergui/pull/2) in [CCExtractor/ccextractorfluttergui](https://github.com//CCExtractor/ccextractorfluttergui)
-4. ❗️ Opened issue [#86557](https://github.com//flutter/flutter/issues/86557) in [flutter/flutter](https://github.com//flutter/flutter)
-5. 🎉 Merged PR [#15](https://github.com//Techno-Disaster/tldr-flutter/pull/15) in [Techno-Disaster/tldr-flutter](https://github.com//Techno-Disaster/tldr-flutter)
+1. 💪 Opened PR [#6](https://github.com//kdy1/flutter_open_notification_settings/pull/6) in [kdy1/flutter_open_notification_settings](https://github.com//kdy1/flutter_open_notification_settings)
+2. 💪 Opened PR [#1370](https://github.com//CCExtractor/ccextractor/pull/1370) in [CCExtractor/ccextractor](https://github.com//CCExtractor/ccextractor)
+3. 🎉 Merged PR [#2](https://github.com//CCExtractor/ccextractorfluttergui/pull/2) in [CCExtractor/ccextractorfluttergui](https://github.com//CCExtractor/ccextractorfluttergui)
+4. 💪 Opened PR [#2](https://github.com//CCExtractor/ccextractorfluttergui/pull/2) in [CCExtractor/ccextractorfluttergui](https://github.com//CCExtractor/ccextractorfluttergui)
+5. ❗️ Opened issue [#86557](https://github.com//flutter/flutter/issues/86557) in [flutter/flutter](https://github.com//flutter/flutter)
 <!--END_SECTION:activity-->
 
 ---
