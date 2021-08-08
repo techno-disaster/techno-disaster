@@ -6,11 +6,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3](https://github.com//CCExtractor/ccextractorfluttergui/issues/3) in [CCExtractor/ccextractorfluttergui](https://github.com//CCExtractor/ccextractorfluttergui)
-2. ❗️ Opened issue [#3](https://github.com//CCExtractor/ccextractorfluttergui/issues/3) in [CCExtractor/ccextractorfluttergui](https://github.com//CCExtractor/ccextractorfluttergui)
-3. 💪 Opened PR [#6](https://github.com//kdy1/flutter_open_notification_settings/pull/6) in [kdy1/flutter_open_notification_settings](https://github.com//kdy1/flutter_open_notification_settings)
-4. 💪 Opened PR [#1370](https://github.com//CCExtractor/ccextractor/pull/1370) in [CCExtractor/ccextractor](https://github.com//CCExtractor/ccextractor)
-5. 🎉 Merged PR [#2](https://github.com//CCExtractor/ccextractorfluttergui/pull/2) in [CCExtractor/ccextractorfluttergui](https://github.com//CCExtractor/ccextractorfluttergui)
+1. ❗️ Opened issue [#87900](https://github.com//flutter/flutter/issues/87900) in [flutter/flutter](https://github.com//flutter/flutter)
+2. ❗️ Closed issue [#3](https://github.com//CCExtractor/ccextractorfluttergui/issues/3) in [CCExtractor/ccextractorfluttergui](https://github.com//CCExtractor/ccextractorfluttergui)
+3. ❗️ Opened issue [#3](https://github.com//CCExtractor/ccextractorfluttergui/issues/3) in [CCExtractor/ccextractorfluttergui](https://github.com//CCExtractor/ccextractorfluttergui)
+4. 💪 Opened PR [#6](https://github.com//kdy1/flutter_open_notification_settings/pull/6) in [kdy1/flutter_open_notification_settings](https://github.com//kdy1/flutter_open_notification_settings)
+5. 💪 Opened PR [#1370](https://github.com//CCExtractor/ccextractor/pull/1370) in [CCExtractor/ccextractor](https://github.com//CCExtractor/ccextractor)
 <!--END_SECTION:activity-->
 
 ---
