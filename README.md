@@ -6,11 +6,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#87900](https://github.com//flutter/flutter/issues/87900) in [flutter/flutter](https://github.com//flutter/flutter)
-2. ❗️ Closed issue [#3](https://github.com//CCExtractor/ccextractorfluttergui/issues/3) in [CCExtractor/ccextractorfluttergui](https://github.com//CCExtractor/ccextractorfluttergui)
-3. ❗️ Opened issue [#3](https://github.com//CCExtractor/ccextractorfluttergui/issues/3) in [CCExtractor/ccextractorfluttergui](https://github.com//CCExtractor/ccextractorfluttergui)
-4. 💪 Opened PR [#6](https://github.com//kdy1/flutter_open_notification_settings/pull/6) in [kdy1/flutter_open_notification_settings](https://github.com//kdy1/flutter_open_notification_settings)
-5. 💪 Opened PR [#1370](https://github.com//CCExtractor/ccextractor/pull/1370) in [CCExtractor/ccextractor](https://github.com//CCExtractor/ccextractor)
+1. 💪 Opened PR [#1373](https://github.com//CCExtractor/ccextractor/pull/1373) in [CCExtractor/ccextractor](https://github.com//CCExtractor/ccextractor)
+2. ❗️ Opened issue [#277](https://github.com//fluttercommunity/flutter_launcher_icons/issues/277) in [fluttercommunity/flutter_launcher_icons](https://github.com//fluttercommunity/flutter_launcher_icons)
+3. ❗️ Opened issue [#87900](https://github.com//flutter/flutter/issues/87900) in [flutter/flutter](https://github.com//flutter/flutter)
+4. ❗️ Closed issue [#3](https://github.com//CCExtractor/ccextractorfluttergui/issues/3) in [CCExtractor/ccextractorfluttergui](https://github.com//CCExtractor/ccextractorfluttergui)
+5. ❗️ Opened issue [#3](https://github.com//CCExtractor/ccextractorfluttergui/issues/3) in [CCExtractor/ccextractorfluttergui](https://github.com//CCExtractor/ccextractorfluttergui)
 <!--END_SECTION:activity-->
 
 ---
