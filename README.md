@@ -1,4 +1,4 @@
-### Hi there, I'm [Jayesh!](https://technodisaster.wtf) aka Techno-Disaster👋
+### Hi there, I'm [Jayesh!](https://technodisaster.com) aka Techno-Disaster👋
 
 
 ---
