@@ -6,11 +6,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1373](https://github.com//CCExtractor/ccextractor/pull/1373) in [CCExtractor/ccextractor](https://github.com//CCExtractor/ccextractor)
-2. ❗️ Opened issue [#277](https://github.com//fluttercommunity/flutter_launcher_icons/issues/277) in [fluttercommunity/flutter_launcher_icons](https://github.com//fluttercommunity/flutter_launcher_icons)
-3. ❗️ Opened issue [#87900](https://github.com//flutter/flutter/issues/87900) in [flutter/flutter](https://github.com//flutter/flutter)
-4. ❗️ Closed issue [#3](https://github.com//CCExtractor/ccextractorfluttergui/issues/3) in [CCExtractor/ccextractorfluttergui](https://github.com//CCExtractor/ccextractorfluttergui)
-5. ❗️ Opened issue [#3](https://github.com//CCExtractor/ccextractorfluttergui/issues/3) in [CCExtractor/ccextractorfluttergui](https://github.com//CCExtractor/ccextractorfluttergui)
+1. 🎉 Merged PR [#5](https://github.com//CCExtractor/ccextractorfluttergui/pull/5) in [CCExtractor/ccextractorfluttergui](https://github.com//CCExtractor/ccextractorfluttergui)
+2. 💪 Opened PR [#5](https://github.com//CCExtractor/ccextractorfluttergui/pull/5) in [CCExtractor/ccextractorfluttergui](https://github.com//CCExtractor/ccextractorfluttergui)
+3. 💪 Opened PR [#1373](https://github.com//CCExtractor/ccextractor/pull/1373) in [CCExtractor/ccextractor](https://github.com//CCExtractor/ccextractor)
+4. ❗️ Opened issue [#277](https://github.com//fluttercommunity/flutter_launcher_icons/issues/277) in [fluttercommunity/flutter_launcher_icons](https://github.com//fluttercommunity/flutter_launcher_icons)
+5. ❗️ Opened issue [#87900](https://github.com//flutter/flutter/issues/87900) in [flutter/flutter](https://github.com//flutter/flutter)
 <!--END_SECTION:activity-->
 
 ---
