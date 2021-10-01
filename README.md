@@ -23,7 +23,7 @@
 
 ---
 
-![](https://komarev.com/ghpvc/?username=Techno-Disaster)
+![count](https://komarev.com/ghpvc/?username=Techno-Disaster)
 
 
 ### Let's connect and chat! :incoming_envelope:
