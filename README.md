@@ -31,7 +31,6 @@
 <p>
  <a href="https://gitlab.com/Techno-Disaster"><img height="30" src="https://img.shields.io/badge/gitlab-FCA121.svg??&style=for-the-badge&logo=gitlab"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/techno_disaster"><img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/techno_disaster"><img height="30" src="https://img.shields.io/badge/instagram-C13584.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>&nbsp;&nbsp;
 <a href="mailto:nirvejayesh@gmail.com"><img height="30" src="https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;&nbsp;
 <a href="https://t.me/techno_disaster"><img height="30" src="https://img.shields.io/badge/telegram-blue?&style=for-the-badge&logo=telegram&logoColor=white" /></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/techno-disaster/"><img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
