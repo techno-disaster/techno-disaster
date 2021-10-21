@@ -6,11 +6,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#6](https://github.com//CCExtractor/ccextractorfluttergui/issues/6) in [CCExtractor/ccextractorfluttergui](https://github.com//CCExtractor/ccextractorfluttergui)
-2. ❗️ Opened issue [#1377](https://github.com//CCExtractor/ccextractor/issues/1377) in [CCExtractor/ccextractor](https://github.com//CCExtractor/ccextractor)
-3. 🎉 Merged PR [#5](https://github.com//CCExtractor/ccextractorfluttergui/pull/5) in [CCExtractor/ccextractorfluttergui](https://github.com//CCExtractor/ccextractorfluttergui)
-4. 💪 Opened PR [#5](https://github.com//CCExtractor/ccextractorfluttergui/pull/5) in [CCExtractor/ccextractorfluttergui](https://github.com//CCExtractor/ccextractorfluttergui)
-5. 💪 Opened PR [#1373](https://github.com//CCExtractor/ccextractor/pull/1373) in [CCExtractor/ccextractor](https://github.com//CCExtractor/ccextractor)
+1. ❗️ Closed issue [#17](https://github.com//Techno-Disaster/tldr-flutter/issues/17) in [Techno-Disaster/tldr-flutter](https://github.com//Techno-Disaster/tldr-flutter)
+2. ❗️ Opened issue [#175](https://github.com//joeattardi/emoji-button/issues/175) in [joeattardi/emoji-button](https://github.com//joeattardi/emoji-button)
+3. 🎉 Merged PR [#22](https://github.com//Techno-Disaster/tldr-flutter/pull/22) in [Techno-Disaster/tldr-flutter](https://github.com//Techno-Disaster/tldr-flutter)
+4. ❗️ Closed issue [#20](https://github.com//Techno-Disaster/tldr-flutter/issues/20) in [Techno-Disaster/tldr-flutter](https://github.com//Techno-Disaster/tldr-flutter)
+5. 🎉 Merged PR [#21](https://github.com//Techno-Disaster/tldr-flutter/pull/21) in [Techno-Disaster/tldr-flutter](https://github.com//Techno-Disaster/tldr-flutter)
 <!--END_SECTION:activity-->
 
 ---
