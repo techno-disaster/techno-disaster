@@ -6,11 +6,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#25](https://github.com//Techno-Disaster/tldr-flutter/issues/25) in [Techno-Disaster/tldr-flutter](https://github.com//Techno-Disaster/tldr-flutter)
-2. ❗️ Closed issue [#24](https://github.com//Techno-Disaster/tldr-flutter/issues/24) in [Techno-Disaster/tldr-flutter](https://github.com//Techno-Disaster/tldr-flutter)
-3. ❗️ Opened issue [#9](https://github.com//CCExtractor/ccextractorfluttergui/issues/9) in [CCExtractor/ccextractorfluttergui](https://github.com//CCExtractor/ccextractorfluttergui)
-4. ❗️ Opened issue [#18343](https://github.com//jsdelivr/jsdelivr/issues/18343) in [jsdelivr/jsdelivr](https://github.com//jsdelivr/jsdelivr)
-5. ❗️ Opened issue [#14](https://github.com//CTalvio/Ultrachromic/issues/14) in [CTalvio/Ultrachromic](https://github.com//CTalvio/Ultrachromic)
+1. ❗️ Closed issue [#12](https://github.com//Techno-Disaster/tldr-flutter/issues/12) in [Techno-Disaster/tldr-flutter](https://github.com//Techno-Disaster/tldr-flutter)
+2. ❗️ Closed issue [#25](https://github.com//Techno-Disaster/tldr-flutter/issues/25) in [Techno-Disaster/tldr-flutter](https://github.com//Techno-Disaster/tldr-flutter)
+3. ❗️ Closed issue [#24](https://github.com//Techno-Disaster/tldr-flutter/issues/24) in [Techno-Disaster/tldr-flutter](https://github.com//Techno-Disaster/tldr-flutter)
+4. ❗️ Opened issue [#9](https://github.com//CCExtractor/ccextractorfluttergui/issues/9) in [CCExtractor/ccextractorfluttergui](https://github.com//CCExtractor/ccextractorfluttergui)
+5. ❗️ Opened issue [#18343](https://github.com//jsdelivr/jsdelivr/issues/18343) in [jsdelivr/jsdelivr](https://github.com//jsdelivr/jsdelivr)
 <!--END_SECTION:activity-->
 
 ---
