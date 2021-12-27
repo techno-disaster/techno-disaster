@@ -6,11 +6,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#19](https://github.com//CCExtractor/ccextractorfluttergui/pull/19) in [CCExtractor/ccextractorfluttergui](https://github.com//CCExtractor/ccextractorfluttergui)
-2. ❌ Closed PR [#13](https://github.com//CCExtractor/ccextractorfluttergui/pull/13) in [CCExtractor/ccextractorfluttergui](https://github.com//CCExtractor/ccextractorfluttergui)
-3. ❌ Closed PR [#18](https://github.com//CCExtractor/ccextractorfluttergui/pull/18) in [CCExtractor/ccextractorfluttergui](https://github.com//CCExtractor/ccextractorfluttergui)
-4. 🎉 Merged PR [#8](https://github.com//CCExtractor/ccextractorfluttergui/pull/8) in [CCExtractor/ccextractorfluttergui](https://github.com//CCExtractor/ccextractorfluttergui)
-5. ❗️ Closed issue [#12](https://github.com//Techno-Disaster/tldr-flutter/issues/12) in [Techno-Disaster/tldr-flutter](https://github.com//Techno-Disaster/tldr-flutter)
+1. ❗️ Closed issue [#16](https://github.com//Techno-Disaster/tldr-flutter/issues/16) in [Techno-Disaster/tldr-flutter](https://github.com//Techno-Disaster/tldr-flutter)
+2. ❗️ Closed issue [#27](https://github.com//Techno-Disaster/tldr-flutter/issues/27) in [Techno-Disaster/tldr-flutter](https://github.com//Techno-Disaster/tldr-flutter)
+3. ❌ Closed PR [#19](https://github.com//CCExtractor/ccextractorfluttergui/pull/19) in [CCExtractor/ccextractorfluttergui](https://github.com//CCExtractor/ccextractorfluttergui)
+4. ❌ Closed PR [#13](https://github.com//CCExtractor/ccextractorfluttergui/pull/13) in [CCExtractor/ccextractorfluttergui](https://github.com//CCExtractor/ccextractorfluttergui)
+5. ❌ Closed PR [#18](https://github.com//CCExtractor/ccextractorfluttergui/pull/18) in [CCExtractor/ccextractorfluttergui](https://github.com//CCExtractor/ccextractorfluttergui)
 <!--END_SECTION:activity-->
 
 ---
