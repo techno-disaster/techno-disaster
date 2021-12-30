@@ -6,11 +6,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7](https://github.com//flutter-webrtc/dart-webrtc/pull/7) in [flutter-webrtc/dart-webrtc](https://github.com//flutter-webrtc/dart-webrtc)
-2. ❗️ Closed issue [#16](https://github.com//Techno-Disaster/tldr-flutter/issues/16) in [Techno-Disaster/tldr-flutter](https://github.com//Techno-Disaster/tldr-flutter)
-3. ❗️ Closed issue [#27](https://github.com//Techno-Disaster/tldr-flutter/issues/27) in [Techno-Disaster/tldr-flutter](https://github.com//Techno-Disaster/tldr-flutter)
-4. ❌ Closed PR [#19](https://github.com//CCExtractor/ccextractorfluttergui/pull/19) in [CCExtractor/ccextractorfluttergui](https://github.com//CCExtractor/ccextractorfluttergui)
-5. ❌ Closed PR [#13](https://github.com//CCExtractor/ccextractorfluttergui/pull/13) in [CCExtractor/ccextractorfluttergui](https://github.com//CCExtractor/ccextractorfluttergui)
+1. ❗️ Closed issue [#25](https://github.com//CCExtractor/ccextractorfluttergui/issues/25) in [CCExtractor/ccextractorfluttergui](https://github.com//CCExtractor/ccextractorfluttergui)
+2. ❗️ Opened issue [#25](https://github.com//CCExtractor/ccextractorfluttergui/issues/25) in [CCExtractor/ccextractorfluttergui](https://github.com//CCExtractor/ccextractorfluttergui)
+3. ❗️ Closed issue [#20](https://github.com//CCExtractor/ccextractorfluttergui/issues/20) in [CCExtractor/ccextractorfluttergui](https://github.com//CCExtractor/ccextractorfluttergui)
+4. ❗️ Closed issue [#22](https://github.com//CCExtractor/ccextractorfluttergui/issues/22) in [CCExtractor/ccextractorfluttergui](https://github.com//CCExtractor/ccextractorfluttergui)
+5. 💪 Opened PR [#7](https://github.com//flutter-webrtc/dart-webrtc/pull/7) in [flutter-webrtc/dart-webrtc](https://github.com//flutter-webrtc/dart-webrtc)
 <!--END_SECTION:activity-->
 
 ---
