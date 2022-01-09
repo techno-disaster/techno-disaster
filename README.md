@@ -6,11 +6,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#7](https://github.com//CCExtractor/ccextractorfluttergui/issues/7) in [CCExtractor/ccextractorfluttergui](https://github.com//CCExtractor/ccextractorfluttergui)
-2. ❗️ Closed issue [#17](https://github.com//CCExtractor/ccextractorfluttergui/issues/17) in [CCExtractor/ccextractorfluttergui](https://github.com//CCExtractor/ccextractorfluttergui)
-3. ❌ Closed PR [#26](https://github.com//CCExtractor/ccextractorfluttergui/pull/26) in [CCExtractor/ccextractorfluttergui](https://github.com//CCExtractor/ccextractorfluttergui)
-4. 🎉 Merged PR [#24](https://github.com//CCExtractor/ccextractorfluttergui/pull/24) in [CCExtractor/ccextractorfluttergui](https://github.com//CCExtractor/ccextractorfluttergui)
-5. ❗️ Closed issue [#25](https://github.com//CCExtractor/ccextractorfluttergui/issues/25) in [CCExtractor/ccextractorfluttergui](https://github.com//CCExtractor/ccextractorfluttergui)
+1. 🎉 Merged PR [#30](https://github.com//CCExtractor/ccextractorfluttergui/pull/30) in [CCExtractor/ccextractorfluttergui](https://github.com//CCExtractor/ccextractorfluttergui)
+2. ❗️ Closed issue [#29](https://github.com//CCExtractor/ccextractorfluttergui/issues/29) in [CCExtractor/ccextractorfluttergui](https://github.com//CCExtractor/ccextractorfluttergui)
+3. ❗️ Closed issue [#7](https://github.com//CCExtractor/ccextractorfluttergui/issues/7) in [CCExtractor/ccextractorfluttergui](https://github.com//CCExtractor/ccextractorfluttergui)
+4. ❗️ Closed issue [#17](https://github.com//CCExtractor/ccextractorfluttergui/issues/17) in [CCExtractor/ccextractorfluttergui](https://github.com//CCExtractor/ccextractorfluttergui)
+5. ❌ Closed PR [#26](https://github.com//CCExtractor/ccextractorfluttergui/pull/26) in [CCExtractor/ccextractorfluttergui](https://github.com//CCExtractor/ccextractorfluttergui)
 <!--END_SECTION:activity-->
 
 ---
