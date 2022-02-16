@@ -6,11 +6,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#16](https://github.com//CCExtractor/website/issues/16) in [CCExtractor/website](https://github.com//CCExtractor/website)
-2. ❗️ Opened issue [#54](https://github.com//CCExtractor/Deluge-mobile-remote-client/issues/54) in [CCExtractor/Deluge-mobile-remote-client](https://github.com//CCExtractor/Deluge-mobile-remote-client)
-3. 🎉 Merged PR [#35](https://github.com//CCExtractor/ccextractorfluttergui/pull/35) in [CCExtractor/ccextractorfluttergui](https://github.com//CCExtractor/ccextractorfluttergui)
-4. 🎉 Merged PR [#23](https://github.com//CCExtractor/ccextractorfluttergui/pull/23) in [CCExtractor/ccextractorfluttergui](https://github.com//CCExtractor/ccextractorfluttergui)
-5. ❗️ Closed issue [#21](https://github.com//CCExtractor/ccextractorfluttergui/issues/21) in [CCExtractor/ccextractorfluttergui](https://github.com//CCExtractor/ccextractorfluttergui)
+1. ❗️ Closed issue [#16](https://github.com//CCExtractor/website/issues/16) in [CCExtractor/website](https://github.com//CCExtractor/website)
+2. ❗️ Closed issue [#12](https://github.com//CCExtractor/website/issues/12) in [CCExtractor/website](https://github.com//CCExtractor/website)
+3. ❗️ Opened issue [#16](https://github.com//CCExtractor/website/issues/16) in [CCExtractor/website](https://github.com//CCExtractor/website)
+4. ❗️ Opened issue [#54](https://github.com//CCExtractor/Deluge-mobile-remote-client/issues/54) in [CCExtractor/Deluge-mobile-remote-client](https://github.com//CCExtractor/Deluge-mobile-remote-client)
+5. 🎉 Merged PR [#35](https://github.com//CCExtractor/ccextractorfluttergui/pull/35) in [CCExtractor/ccextractorfluttergui](https://github.com//CCExtractor/ccextractorfluttergui)
 <!--END_SECTION:activity-->
 
 ---
