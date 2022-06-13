@@ -6,10 +6,10 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#87](https://github.com//Dev-hwang/flutter_foreground_task/pull/87) in [Dev-hwang/flutter_foreground_task](https://github.com//Dev-hwang/flutter_foreground_task)
-2. 💪 Opened PR [#1](https://github.com//SphericalKat/libgen.dart/pull/1) in [SphericalKat/libgen.dart](https://github.com//SphericalKat/libgen.dart)
-3. ❗️ Closed issue [#12](https://github.com//CCExtractor/website/issues/12) in [CCExtractor/website](https://github.com//CCExtractor/website)
-4. ❗️ Opened issue [#16](https://github.com//CCExtractor/website/issues/16) in [CCExtractor/website](https://github.com//CCExtractor/website)
+1. 🎉 Merged PR [#29](https://github.com//Techno-Disaster/tldr-flutter/pull/29) in [Techno-Disaster/tldr-flutter](https://github.com//Techno-Disaster/tldr-flutter)
+2. 🎉 Merged PR [#28](https://github.com//Techno-Disaster/tldr-flutter/pull/28) in [Techno-Disaster/tldr-flutter](https://github.com//Techno-Disaster/tldr-flutter)
+3. 💪 Opened PR [#87](https://github.com//Dev-hwang/flutter_foreground_task/pull/87) in [Dev-hwang/flutter_foreground_task](https://github.com//Dev-hwang/flutter_foreground_task)
+4. 💪 Opened PR [#1](https://github.com//SphericalKat/libgen.dart/pull/1) in [SphericalKat/libgen.dart](https://github.com//SphericalKat/libgen.dart)
 5. ❗️ Opened issue [#54](https://github.com//CCExtractor/Deluge-mobile-remote-client/issues/54) in [CCExtractor/Deluge-mobile-remote-client](https://github.com//CCExtractor/Deluge-mobile-remote-client)
 <!--END_SECTION:activity-->
 
